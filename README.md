@@ -1,1 +1,2 @@
 # gitExercise
+Git commands exercise
